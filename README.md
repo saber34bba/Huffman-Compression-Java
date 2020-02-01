@@ -1,2 +1,2 @@
 # Huffman-Compression-Java
-Huffman Algorithme for Text Compression 
+Huffman Algorithm for Text Compression 
